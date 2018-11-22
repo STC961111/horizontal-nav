@@ -11,11 +11,17 @@ html {
 
 header {
   background: #79756f;
+  border-top: #595652;
+  border-bottom: #595652;
+}
+
+header {
+  background: #79756f;
 }
 
 h1 {
   text-align: center;
-  font-family: sans-serif;
+  font-family: Bevan, serif;
   padding-top: .75em;
   color: #fff;
 }
