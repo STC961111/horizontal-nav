@@ -34,7 +34,7 @@ nav ul {
 
 nav li {
   display: inline-block;
-  margin: 0;
+  margin: .3em;
   padding-bottom: .6em;
 }
 
