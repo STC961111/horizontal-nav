@@ -39,6 +39,7 @@ nav li {
 nav a {
   color: #fff;
   text-decoration: none;
+  padding: 1rem;
   background-color: #713837;
 }
 
